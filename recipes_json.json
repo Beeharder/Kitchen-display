@@ -1,0 +1,131 @@
+{
+  "poke-bowls": {
+    "name": "Poke Bowls",
+    "minutes": 40,
+    "servings": 2,
+    "ingredients": [
+      { "item": "sashimi-grade salmon", "qty": 300, "unit": "g" },
+      { "item": "sushi rice", "qty": 200, "unit": "g" },
+      { "item": "rice vinegar", "qty": 30, "unit": "ml" },
+      { "item": "sugar", "qty": 5, "unit": "ml" },
+      { "item": "salt", "qty": 2.5, "unit": "ml" },
+      { "item": "soy sauce", "qty": 45, "unit": "ml" },
+      { "item": "sesame oil", "qty": 10, "unit": "ml" },
+      { "item": "honey", "qty": 5, "unit": "ml" },
+      { "item": "english cucumber", "qty": 0.5, "unit": "ea" },
+      { "item": "avocado", "qty": 1, "unit": "ea" },
+      { "item": "carrot", "qty": 1, "unit": "ea" },
+      { "item": "frozen shelled edamame", "qty": 150, "unit": "g" },
+      { "item": "green onion", "qty": 2, "unit": "ea" },
+      { "item": "sesame seeds", "qty": 5, "unit": "ml" },
+      { "item": "mayonnaise", "qty": 30, "unit": "ml" },
+      { "item": "sriracha", "qty": 10, "unit": "ml" }
+    ],
+    "steps": [
+      { "text": "Rinse the rice in a sieve until the water runs mostly clear. Put it in a pot with 250 ml water and bring to a boil." },
+      { "text": "Cover, turn the heat to minimum and cook 15 minutes. Don't lift the lid.", "timer": 900 },
+      { "text": "While it cooks: cover the edamame with hot tap water. Slice the cucumber, grate the carrot, slice the avocado and green onions." },
+      { "text": "Cut the salmon into 2 cm cubes. Toss with 30 ml soy sauce, the sesame oil, honey and half the green onions. Keep it in the fridge." },
+      { "text": "Rice done: take it off the heat and leave it covered to rest.", "timer": 600 },
+      { "text": "Stir the rice vinegar, sugar and salt until dissolved. Fold into the rice." },
+      { "text": "Mix the mayonnaise and sriracha. Drain the edamame." },
+      { "text": "Build the bowls: rice, then salmon and each vegetable in its own section. Drizzle spicy mayo and the last 15 ml of soy. Finish with sesame seeds and green onions." }
+    ]
+  },
+
+  "chicken-couscous-boursin": {
+    "name": "One-Pan Chicken Thighs, Couscous and Boursin",
+    "minutes": 40,
+    "servings": 2,
+    "ingredients": [
+      { "item": "boneless skinless chicken thighs", "qty": 500, "unit": "g" },
+      { "item": "pearl couscous", "qty": 180, "unit": "g" },
+      { "item": "boursin garlic & fine herbs", "qty": 150, "unit": "g" },
+      { "item": "low-sodium chicken broth", "qty": 500, "unit": "ml" },
+      { "item": "baby spinach", "qty": 100, "unit": "g" },
+      { "item": "cherry tomatoes", "qty": 200, "unit": "g" },
+      { "item": "shallot", "qty": 1, "unit": "ea" },
+      { "item": "garlic", "qty": 2, "unit": "clove" },
+      { "item": "lemon", "qty": 1, "unit": "ea" },
+      { "item": "olive oil", "qty": 15, "unit": "ml" },
+      { "item": "dried thyme", "qty": 5, "unit": "ml" },
+      { "item": "salt", "qty": 2.5, "unit": "ml" },
+      { "item": "black pepper", "qty": 2.5, "unit": "ml" }
+    ],
+    "steps": [
+      { "text": "Pat the chicken dry and season with thyme, salt and pepper. Finely chop the shallot and garlic. Halve the tomatoes. Zest the lemon, then cut it in half." },
+      { "text": "Heat the oil in a large deep pan with a lid, medium-high. Lay the chicken in and sear without moving it.", "timer": 300 },
+      { "text": "Flip the chicken and cook the other side. It won't be cooked through yet.", "timer": 180 },
+      { "text": "Move the chicken to a plate. Turn the heat to medium, add the shallot and garlic and stir.", "timer": 120 },
+      { "text": "Add the couscous and stir to toast it.", "timer": 120 },
+      { "text": "Pour in the broth and scrape up the browned bits. Bring to a boil, then set the chicken back on top with its juices. Cover and simmer on low until the couscous is tender and the chicken reaches 74°C.", "timer": 720 },
+      { "text": "Lift the chicken out again. Stir in the Boursin, tomatoes and spinach until the spinach wilts and it turns creamy.", "timer": 120 },
+      { "text": "Squeeze in the lemon juice and add the zest. Slice the chicken and lay it on top." }
+    ]
+  },
+
+  "tacos": {
+    "name": "Tacos",
+    "minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      { "item": "lean ground beef", "qty": 450, "unit": "g" },
+      { "item": "small corn tortillas", "qty": 8, "unit": "ea" },
+      { "item": "chili powder", "qty": 15, "unit": "ml" },
+      { "item": "ground cumin", "qty": 5, "unit": "ml" },
+      { "item": "smoked paprika", "qty": 5, "unit": "ml" },
+      { "item": "garlic powder", "qty": 2.5, "unit": "ml" },
+      { "item": "dried oregano", "qty": 2.5, "unit": "ml" },
+      { "item": "salt", "qty": 2.5, "unit": "ml" },
+      { "item": "olive oil", "qty": 15, "unit": "ml" },
+      { "item": "romaine lettuce", "qty": 0.5, "unit": "head" },
+      { "item": "tomato", "qty": 2, "unit": "ea" },
+      { "item": "red onion", "qty": 0.5, "unit": "ea" },
+      { "item": "avocado", "qty": 1, "unit": "ea" },
+      { "item": "lime", "qty": 1, "unit": "ea" },
+      { "item": "cilantro", "qty": 0.5, "unit": "bunch" },
+      { "item": "cheddar", "qty": 60, "unit": "g" },
+      { "item": "plain greek yogurt", "qty": 60, "unit": "ml" }
+    ],
+    "steps": [
+      { "text": "Dice the tomatoes and red onion. Shred the lettuce, slice the avocado, chop the cilantro, grate the cheese and cut the lime into wedges." },
+      { "text": "Mix the chili powder, cumin, paprika, garlic powder, oregano and salt in a small bowl." },
+      { "text": "Heat the oil in a large pan, medium-high. Add the beef, break it up and cook until browned.", "timer": 420 },
+      { "text": "Drain off extra fat if there's a lot. Stir in the spice mix and 60 ml water. Simmer until saucy.", "timer": 240 },
+      { "text": "Warm the tortillas in a dry pan, about 30 seconds a side. Wrap them in a clean towel." },
+      { "text": "Build the tacos: beef, lettuce, tomato, onion, avocado, cheese, a spoon of yogurt, cilantro and a squeeze of lime." }
+    ]
+  },
+
+  "burgers": {
+    "name": "Burgers",
+    "minutes": 30,
+    "servings": 2,
+    "ingredients": [
+      { "item": "lean ground beef", "qty": 340, "unit": "g" },
+      { "item": "whole wheat burger buns", "qty": 2, "unit": "ea" },
+      { "item": "cheddar", "qty": 40, "unit": "g" },
+      { "item": "mixed greens", "qty": 140, "unit": "g" },
+      { "item": "tomato", "qty": 1, "unit": "ea" },
+      { "item": "red onion", "qty": 0.5, "unit": "ea" },
+      { "item": "english cucumber", "qty": 0.5, "unit": "ea" },
+      { "item": "dill pickles", "qty": 2, "unit": "ea" },
+      { "item": "worcestershire sauce", "qty": 5, "unit": "ml" },
+      { "item": "dijon mustard", "qty": 10, "unit": "ml" },
+      { "item": "ketchup", "qty": 15, "unit": "ml" },
+      { "item": "olive oil", "qty": 20, "unit": "ml" },
+      { "item": "red wine vinegar", "qty": 10, "unit": "ml" },
+      { "item": "salt", "qty": 2.5, "unit": "ml" },
+      { "item": "black pepper", "qty": 2.5, "unit": "ml" }
+    ],
+    "steps": [
+      { "text": "Mix the beef with the Worcestershire, salt and pepper. Shape two patties a little wider than the buns and press a thumb dent into the middle of each." },
+      { "text": "Slice the tomato, red onion, pickles and cucumber. Slice the cheese." },
+      { "text": "Heat a pan with a little oil, medium-high. Cook the patties without moving them.", "timer": 240 },
+      { "text": "Flip, lay the cheese on top and cook until the centre reaches 71°C.", "timer": 240 },
+      { "text": "Move the patties to a plate to rest. Toast the buns cut-side down in the same pan.", "timer": 60 },
+      { "text": "Toss the greens and cucumber with the rest of the oil, the vinegar and a pinch of salt." },
+      { "text": "Build: bun, mustard, a few greens, patty, tomato, onion, pickles, ketchup. Salad on the side." }
+    ]
+  }
+}
