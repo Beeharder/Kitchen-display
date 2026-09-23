@@ -1,0 +1,9 @@
+{
+  "default": {
+    "mon": { "recipe_id": "poke-bowls", "prep_note": "Keep the salmon on the coldest shelf; it gets eaten raw tonight" },
+    "tue": { "recipe_id": "chicken-couscous-boursin", "prep_note": "Move the chicken from freezer to fridge" },
+    "wed": { "recipe_id": "tacos", "prep_note": "Move the ground beef from freezer to fridge" },
+    "thu": { "recipe_id": "burgers", "prep_note": "Move the ground beef from freezer to fridge" }
+  },
+  "rows": []
+}
